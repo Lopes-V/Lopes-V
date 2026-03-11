@@ -6,7 +6,7 @@
 </div>
 
 ### 🚀 Sobre mim
-Sou **Desenvolvedor Full Stack**, atualmente colaborando na **Weg**. Transformo problemas complexos em soluções elegantes e escaláveis. Meu foco principal é o ecossistema Java no backend e React no frontend.
+Sou **Desenvolvedor Full Stack**. Transformo problemas complexos em soluções elegantes e escaláveis. Meu foco principal é o ecossistema Java no backend e React no frontend.
 
 * 🏢 Atualmente aprimorando sistemas na **Weg**.
 * ⚙️ Especialista em **Java + Spring Boot**.
@@ -37,16 +37,6 @@ Sou **Desenvolvedor Full Stack**, atualmente colaborando na **Weg**. Transformo 
 
 ---
 
-### 📊 Projetos em Destaque
-
-> [!TIP]
-> **[Supermarket Project](LINK_DO_SEU_REPOSITORIO)** > Sistema completo de gestão com **Spring Boot** e **Docker**. Inclui autenticação JWT com **Spring Security** e modelagem de banco de dados SQL.
-
-> [!TIP]
-> **[Meu Projeto React](LINK_DO_SEU_REPOSITORIO)** > Interface moderna desenvolvida com foco em UX/UI, utilizando componentes funcionais e integração com APIs REST.
-
----
-
 ### 📫 Vamos conversar?
 
 <div align="left">
@@ -60,4 +50,4 @@ Sou **Desenvolvedor Full Stack**, atualmente colaborando na **Weg**. Transformo 
 
 <br />
 
-*"O código limpo sempre parece que foi escrito por alguém que se importa."*
+*"Para um bom entendedor, meia palavra basta."*
