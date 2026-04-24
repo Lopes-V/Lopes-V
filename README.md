@@ -4,14 +4,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lopes-V&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopes-V&layout=compact&langs_count=7&theme=tokyonight" height="180em" />
 </div>
+## 🔥 Sequência de Contribuições
 
+<img src="https://streak-stats.demolab.com?user=Lopes-V&theme=tokyonight&hide_border=true"/>
+
+---
 ### 🚀 Sobre mim
-Sou **Desenvolvedor Full Stack**. Transformo problemas complexos em soluções elegantes e escaláveis. Meu foco principal é o ecossistema Java no backend e React no frontend.
-
 * 🏢 Atualmente aprimorando sistemas na **Weg**.
 * ⚙️ Especialista em **Java + Spring Boot**.
-* 🏗️ Focado em **Arquitetura de Sistemas** e documentação visual (Diagramas).
-* 🔒 Implementando segurança robusta com **Spring Security**.
+* 🏗️ Focado em **Arquitetura de Sistemas** e documentação visual (Diagramas)
 
 ---
 
@@ -43,7 +44,7 @@ Sou **Desenvolvedor Full Stack**. Transformo problemas complexos em soluções e
   <a href="mailto:lopeavini@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vin%C3%ADcius-lopes-103374365/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
