@@ -16,7 +16,6 @@
 
 Atualmente focado em construir soluções robustas e escaláveis.
 
-* 🏢 **Weg:** Atuando no aprimoramento e manutenção de sistemas core.
 * ⚙️ **Especialidade:** Ecossistema Java com Spring Boot.
 * 🏗️ **Interesses:** Arquitetura de Sistemas e Cibersegurança.
 
