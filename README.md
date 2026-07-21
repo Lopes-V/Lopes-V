@@ -1,21 +1,5 @@
 # Olá, eu sou o Vinícius! 👋
 
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Lopes-V&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
-alt="Estatísticas do GitHub"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopes-V&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-alt="Linguagens mais utilizadas"
-height="180"
-/>
-
-</div>
-
 
 # 📊 Estatísticas
 
