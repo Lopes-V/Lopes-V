@@ -16,17 +16,22 @@ height="180"
 
 </div>
 
-## 🔥 Contribuições e atividade
 
-<div align="center">
+# 📊 Estatísticas
 
-<img
-src="https://streak-stats.demolab.com/?user=Lopes-V&theme=tokyonight&hide_border=true"
-alt="Sequência de contribuições"
-width="100%"
-/>
+<p align="center">
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lopes-v&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lopes-v&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lopes-v&theme=tokyonight" width="49%"/>
+
+</p>
 
 ---
 
