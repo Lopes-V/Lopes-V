@@ -1,24 +1,6 @@
 # Olá, eu sou o Vinícius! 👋
 
 
-# 📊 Estatísticas
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lopes-V&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lopes-V&theme=tokyonight" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lopes-V&theme=tokyonight" width="49%"/>
-
-</p>
-
----
-
 ## 🚀 Sobre mim
 
 Atualmente, estou focado em construir soluções robustas, organizadas e escaláveis.
