@@ -60,7 +60,7 @@ Atualmente, estou focado em construir soluções robustas, organizadas e escalá
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=JuniorAntunes910&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=lopes-V&theme=tokyonight&hide_border=true"/>
 
 </p>
 
