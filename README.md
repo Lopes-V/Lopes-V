@@ -36,7 +36,35 @@ Atualmente, estou focado em construir soluções robustas, organizadas e escalá
 </p>
 
 ---
+---
 
+# 📊 Estatísticas
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuniorAntunes910&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuniorAntunes910&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuniorAntunes910&theme=tokyonight" width="49%"/>
+
+</p>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=JuniorAntunes910&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 ## 📫 Contato
 
 <p align="left">
