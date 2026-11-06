@@ -11,15 +11,14 @@ Gosto de entender como uma aplicação funciona de ponta a ponta: como ela auten
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [barbershop-api](https://github.com/Lopes-V/barbershop-api) | API REST de gestão de barbearia: agenda, barbeiros, autenticação JWT | Java, Spring Boot, Spring Security, JPA, Docker |
-| [barbershop-web](https://github.com/Lopes-V/barbershop-web) | Interface web do sistema da barbearia | React, Vite, Tailwind |
+| [library-management-api](https://github.com/Lopes-V/library-management-api) | API de biblioteca com derived queries, JPQL, native SQL e projections | Java 21, Spring Boot, JPA, Swagger |
 | [mercado-invest](https://github.com/Lopes-V/mercado-invest) | Automação de acompanhamento de mercado com dashboard web | Python, Supabase, Next.js |
 | [atlas-web](https://github.com/Lopes-V/atlas-web) | Aplicação web com deploy na Vercel e testes E2E | Next.js, TypeScript, Playwright |
 | [esp32-mqtt-nodered-monitor](https://github.com/Lopes-V/esp32-mqtt-nodered-monitor) | Monitoramento de luminosidade e potenciômetro via MQTT com dashboard Node-RED | ESP32, PlatformIO, MQTT, Node-RED |
 | [cisco-packet-tracer-labs](https://github.com/Lopes-V/cisco-packet-tracer-labs) | Laboratórios de redes: VLAN, trunking 802.1Q, Router-on-a-Stick | Cisco Packet Tracer |
-| [library-management-api](https://github.com/Lopes-V/library-management-api) | API de biblioteca com derived queries, JPQL, native SQL e projections | Java 21, Spring Boot, JPA, Swagger |
+| [private-cloud-proxy](https://github.com/Lopes-V/private-cloud-proxy) | Proxy autenticado com TLS e proteção contra SSRF, com deploy no Render | JavaScript, GOST, Render |
 
-Também mantenho o [Portal de Manutenção Mecânica](https://github.com/Portal-Manutencao-Mecanica), desenvolvido em equipe (Java/Spring Boot + Next.js).
+Também participo do [Portal de Manutenção Mecânica](https://github.com/Portal-Manutencao-Mecanica), desenvolvido em equipe (Java/Spring Boot + Next.js). Outros projetos com Spring Security, JWT e Flyway estão em repositórios privados.
 
 ---
 
