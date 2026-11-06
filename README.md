@@ -11,14 +11,12 @@ Gosto de entender como uma aplicação funciona de ponta a ponta: como ela auten
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [library-management-api](https://github.com/Lopes-V/library-management-api) | API de biblioteca com derived queries, JPQL, native SQL e projections | Java 21, Spring Boot, JPA, Swagger |
-| [mercado-invest](https://github.com/Lopes-V/mercado-invest) | Automação de acompanhamento de mercado com dashboard web | Python, Supabase, Next.js |
-| [atlas-web](https://github.com/Lopes-V/atlas-web) | Aplicação web com deploy na Vercel e testes E2E | Next.js, TypeScript, Playwright |
 | [esp32-mqtt-nodered-monitor](https://github.com/Lopes-V/esp32-mqtt-nodered-monitor) | Monitoramento de luminosidade e potenciômetro via MQTT com dashboard Node-RED | ESP32, PlatformIO, MQTT, Node-RED |
 | [cisco-packet-tracer-labs](https://github.com/Lopes-V/cisco-packet-tracer-labs) | Laboratórios de redes: VLAN, trunking 802.1Q, Router-on-a-Stick | Cisco Packet Tracer |
+| [esp32-auto-wiper](https://github.com/Lopes-V/esp32-auto-wiper) | Limpador de para-brisa automático: acionamento por botão e por umidade (DHT11) com servo motor | ESP32, PlatformIO, C++ |
 | [private-cloud-proxy](https://github.com/Lopes-V/private-cloud-proxy) | Proxy autenticado com TLS e proteção contra SSRF, com deploy no Render | JavaScript, GOST, Render |
 
-Também participo do [Portal de Manutenção Mecânica](https://github.com/Portal-Manutencao-Mecanica), desenvolvido em equipe (Java/Spring Boot + Next.js). Outros projetos com Spring Security, JWT e Flyway estão em repositórios privados.
+Também participo do [Portal de Manutenção Mecânica](https://github.com/Portal-Manutencao-Mecanica), desenvolvido em equipe (Java/Spring Boot + Next.js). Projetos Java/Spring Boot com Spring Security, JWT e Flyway estão em repositórios privados.
 
 ---
 
